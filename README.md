@@ -1,5 +1,6 @@
 # COVID-19 Graphic User Interface (GUI)
 GUI that provides COVID-19 cases by ZIP code in San Francisco, CA
+
 Provides the following info when valid San Francisco, CA ZIP code:
   - Date and Time stamp
   - Zip code
